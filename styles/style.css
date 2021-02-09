@@ -1,9 +1,6 @@
-:root {
-  --main-color: #8A7971;
-}
-
 body {
-    background-color: #989C83;
+  background-color: #989C83;
+  font-family: 'Montserrat', sans-serif;
 } 
 
 /* #title-section*/
@@ -41,7 +38,7 @@ body {
   color: #EFF0E7;
 }
 
-  /*footer*/
+  /* Footer */
 
 footer { 
   width: 100%; 
