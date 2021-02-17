@@ -6,11 +6,6 @@ body {
 
 /* #title-section*/
 
-
-.navbar {
-width: 100vw;
-}
-
 .navbar-dark {
     background-color: #222831;
     font-family: 'Montserrat', sans-serif;
@@ -38,7 +33,6 @@ width: 100vw;
 #experience-section {
     background-color: #11999e;
     font-family: 'Montserrat', sans-serif;
-	width: 100vw;
 }
 
 .experience-header {
@@ -48,7 +42,7 @@ width: 100vw;
   /* Footer */
 
 footer { 
-  width: 100vw; 
+  width: 100%; 
   background-color: #263238; 
   min-height: 250px; 
   padding: 10px 0px 25px 0px;
